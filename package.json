@@ -1,0 +1,23 @@
+{
+  "name": "backend-datei-struktur",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhanad-musawi/backend-datei-struktur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhanad-musawi/backend-datei-struktur/issues"
+  },
+  "homepage": "https://github.com/muhanad-musawi/backend-datei-struktur#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  }
+}
